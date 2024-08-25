@@ -1,0 +1,3 @@
+tkinter
+win10toast
+pyinstaller
